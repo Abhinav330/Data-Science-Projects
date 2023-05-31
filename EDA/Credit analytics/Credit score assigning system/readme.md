@@ -1,1 +1,0 @@
-# Credit scoring assigning system
