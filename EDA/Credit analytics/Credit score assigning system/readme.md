@@ -38,7 +38,7 @@ The final part of the project, yet to be started, will focus on feature engineer
 
 ## Usage
 
-To replicate the data cleaning process, follow the steps outlined in `data_cleaning.ipynb`. Modify the notebook as needed for your specific dataset.
+To replicate the data cleaning process, follow the steps outlined in `Credit score classification_Data_Cleaning_part1.ipynb`. Modify the notebook as needed for your specific dataset.
 
 ## License
 
