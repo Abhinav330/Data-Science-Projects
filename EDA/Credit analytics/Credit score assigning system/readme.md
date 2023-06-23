@@ -8,7 +8,7 @@ This project aims to analyze credit card customer data, clean the dataset using 
 
 ### Part 1: Data Cleaning
 
-In this part, a Jupyter Notebook file (`data_cleaning.ipynb`) is provided, which focuses on cleaning the credit card customer dataset. The notebook utilizes Pandas and NumPy libraries to perform various data cleaning tasks such as handling missing values, removing duplicates, and standardizing data formats. The cleaned dataset serves as the foundation for subsequent analysis.
+In this part, a Jupyter Notebook file (`Credit score classification_Data_Cleaning_part1.ipynb`) is provided, which focuses on cleaning the credit card customer dataset. The notebook utilizes Pandas and NumPy libraries to perform various data cleaning tasks such as handling missing values, removing duplicates, and standardizing data formats. The cleaned dataset serves as the foundation for subsequent analysis.
 
 ### Part 2: Exploratory Data Analysis (In Progress)
 
