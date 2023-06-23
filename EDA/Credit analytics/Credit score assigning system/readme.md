@@ -4,7 +4,7 @@ Credit Card Customer Analysis
 
 ## Description
 
-This project aims to analyze credit card customer data, clean the dataset using libraries such as Pandas and NumPy, and utilize advanced features of Pandas like `groupby`. The project is divided into three parts:
+This project aims to analyze credit card customer data, clean the dataset using libraries such as Pandas and NumPy, and utilize advanced features of Pandas like `groupby` `df.astype(dtype)` `df.str.split(separator)` `df.replace(to_replace, value)` . The project is divided into three parts:
 
 ### Part 1: Data Cleaning
 
@@ -39,11 +39,6 @@ The final part of the project, yet to be started, will focus on feature engineer
 ## Usage
 
 To replicate the data cleaning process, follow the steps outlined in `data_cleaning.ipynb`. Modify the notebook as needed for your specific dataset.
-
-## Contributors
-
-- John Doe
-- Jane Smith
 
 ## License
 
