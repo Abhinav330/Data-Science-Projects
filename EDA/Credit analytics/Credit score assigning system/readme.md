@@ -29,12 +29,12 @@ The final part of the project, yet to be started, will focus on feature engineer
 2. Install the required dependencies:
 
    ```bash
-   pip install pandas numpy
+   pip install pandas numpy matplotlib seaborn scikit-learn
    ```
 
 3. Run the Jupyter Notebook files in the following order:
 
-   - `data_cleaning.ipynb`
+   - `Credit score classification_Data_Cleaning_part1.ipynb`
 
 ## Usage
 
