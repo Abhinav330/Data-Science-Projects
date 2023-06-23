@@ -23,7 +23,7 @@ The final part of the project, yet to be started, will focus on feature engineer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/credit-card-customer-analysis.git
+   [git clone https://github.com/your-username/credit-card-customer-analysis.git](https://github.com/Abhinav330/Data-Science-Projects.git)
    ```
 
 2. Install the required dependencies:
