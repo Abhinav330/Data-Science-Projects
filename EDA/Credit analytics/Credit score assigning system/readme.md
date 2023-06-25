@@ -10,11 +10,11 @@ This project aims to analyze credit card customer data, clean the dataset using 
 
 In this part, a Jupyter Notebook file (`Credit score classification_Data_Cleaning_part1.ipynb`) is provided, which focuses on cleaning the credit card customer dataset. The notebook utilizes Pandas and NumPy libraries to perform various data cleaning tasks such as handling missing values, removing duplicates, and standardizing data formats. The cleaned dataset serves as the foundation for subsequent analysis.
 
-### Part 2: Exploratory Data Analysis (In Progress)
+### Part 2: Exploratory Data Analysis 
 
-The second part of the project, currently in progress, involves exploratory data analysis (EDA) on the credit card customer data. The primary objective is to gain insights into the factors driving credit scores of customers. Various statistical and visual techniques will be employed to explore relationships, identify trends, and uncover patterns within the dataset.
+The second part of the project,  Jupyter Notebook file (`Credit score classification_EDA_part2.ipynb`) involves exploratory data analysis (EDA) on the credit card customer data. The primary objective is to gain insights into the factors driving credit scores of customers. Various statistical and visual techniques will be employed to explore relationships, identify trends, and uncover patterns within the dataset.
 
-### Part 3: Feature Engineering and ML Model Creation (Yet to Start)
+### Part 3: Feature Engineering and ML Model Creation (In Progress)
 
 The final part of the project, yet to be started, will focus on feature engineering and building a machine learning (ML) model. Feature engineering techniques will be applied to transform the existing dataset, creating new features that may improve the model's predictive power. A suitable ML algorithm will be selected and trained using the processed dataset to predict credit scores for new customers based on their provided information.
 
@@ -35,10 +35,11 @@ The final part of the project, yet to be started, will focus on feature engineer
 3. Run the Jupyter Notebook files in the following order:
 
    - `Credit score classification_Data_Cleaning_part1.ipynb`
+   -  `Credit score classification_EDA_part2.ipynb`
 
 ## Usage
 
-To replicate the data cleaning process, follow the steps outlined in `Credit score classification_Data_Cleaning_part1.ipynb`. Modify the notebook as needed for your specific dataset.
+To replicate the data cleaning process, follow the steps outlined in `Credit score classification_Data_Cleaning_part1.ipynb` and  in `Credit score classification_EDA_part2.ipynb`. Modify the notebook as needed for your specific dataset.
 
 ## License
 
