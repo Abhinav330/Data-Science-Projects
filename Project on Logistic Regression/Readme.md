@@ -39,5 +39,3 @@ The code evaluates the logistic regression model's performance by:
 - Printing the accuracy of the model on the testing data.
 
 Overall, this code provides a comprehensive analysis of advertising data, preprocesses it, builds a logistic regression model for predicting whether a user clicks on an ad, and evaluates the model's performance.
-
-**Note**: Ensure that the 'advertising.csv' dataset is correctly loaded, and all necessary imports are available before running the code. Additionally, data preprocessing should be handled carefully, especially with categorical variables, to avoid potential issues.
