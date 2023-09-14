@@ -50,8 +50,3 @@ The code performs hyperparameter tuning using GridSearchCV to optimize the SVM m
 The tuned model is evaluated using the same metrics as before:
 - Confusion matrix and classification report are printed for the tuned model.
 
-## Note
-
-There's a minor error in the code when printing the accuracy using `ac(y_test, g_pred)`, which seems to be a typo. It should be corrected to `accuracy_score(y_test, g_pred)` to properly display the accuracy.
-
-Ensure that the 'Iris.csv' dataset is correctly loaded and all necessary imports are available before running the code. Additionally, handle any warnings or potential issues as needed during the analysis.
