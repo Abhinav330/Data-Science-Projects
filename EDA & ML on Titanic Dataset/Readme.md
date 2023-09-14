@@ -40,11 +40,3 @@ The script builds a machine learning model using several classifiers and a votin
 
 The script generates predictions for the 'test.csv' dataset using the trained model. It also creates a submission file in the required format for the Kaggle competition.
 
-## Note
-
-- Some code sections, like data encoding and model evaluation, are commented out but can be uncommented for further analysis.
-- The code is written to be adaptable and modular, allowing for easy experimentation with different models and features.
-- Ensure that 'train.csv' and 'test.csv' are correctly loaded and that all necessary imports are available before running the code.
-- This script serves as an example of a typical data analysis and machine learning pipeline for a binary classification task.
-
-You can customize this Markdown summary as needed for your GitHub repository or documentation.
