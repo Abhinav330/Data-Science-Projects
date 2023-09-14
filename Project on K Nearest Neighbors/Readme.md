@@ -31,5 +31,3 @@ The code evaluates the KNN model by:
 - Printing the final confusion matrix, classification report, and accuracy score.
 
 The code aims to find the best 'n_neighbors' value that maximizes the model's performance.
-
-**Note**: The code seems to be working with a specific dataset ('KNN_Project_Data') that is assumed to be available. Ensure that the dataset is correctly loaded and that all necessary imports are available before running the code. Also, handle the warnings with 'DeprecationWarning' appropriately, and ensure that the data preprocessing and scaling steps are applied consistently.
