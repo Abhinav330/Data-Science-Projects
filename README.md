@@ -66,11 +66,6 @@ These projects can be used for various purposes, including:
 - Gaining insights from data through visualizations
 - Predicting outcomes based on given features
 
-## Examples
-1. Predicting house prices based on various features using EDA & ML on House Pricing Dataset.
-2. Analyzing the survival and death risk factors on the Titanic using EDA & ML on Titanic Dataset.
-3. Performing risk analysis on emergency calls using EDA on 911 dataset Risk Analysis.
-
 ## Error Handling
 Possible errors that may occur include missing dependencies, incorrect file paths, or incompatible data formats. To resolve these errors, ensure that all dependencies are installed correctly, check the file paths in the code, and verify that the data is in the expected format.
 
