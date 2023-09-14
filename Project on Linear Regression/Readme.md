@@ -43,4 +43,4 @@ The script creates a DataFrame (`coof`) to display the coefficients of the Linea
 
 Overall, this code provides a comprehensive analysis of an e-commerce customer dataset, explores feature relationships, builds a Linear Regression model for prediction, and evaluates the model's performance.
 
-**Note**: Ensure that the 'Ecommerce Customers' dataset is correctly loaded, and all necessary imports are available before running the code. Additionally, consider handling any missing data or outliers in the dataset for more robust analysis and modeling.
+
