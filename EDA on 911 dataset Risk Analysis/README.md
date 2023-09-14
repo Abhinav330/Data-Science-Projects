@@ -43,11 +43,3 @@ The script maps call types to numeric values by defining a function and applying
 ## Correlation Analysis
 
 The script calculates and visualizes the correlation between numeric columns in the dataset using a heatmap. This helps identify potential relationships between variables.
-
-## Note
-
-- Ensure that '911.csv' is correctly loaded and that all necessary libraries are installed before running the code.
-- This script serves as an example of exploratory data analysis (EDA) for emergency call data and can be adapted for similar datasets.
-- Feel free to customize and expand upon this analysis to derive further insights from the data.
-
-You can customize this Markdown summary as needed for your documentation or GitHub repository.
