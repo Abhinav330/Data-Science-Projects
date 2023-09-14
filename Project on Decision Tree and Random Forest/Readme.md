@@ -37,4 +37,3 @@ Both models are evaluated using metrics such as confusion matrix, precision, rec
 
 Overall, this code demonstrates a typical machine learning workflow for classification tasks, including data exploration, preprocessing, model building, and evaluation.
 
-**Note**: The code appears to have some issues or discrepancies in terms of imports and variable usage, such as using `accuracy_score` from `sklearn.metrics` twice, and there are some missing import statements. These issues should be addressed for the code to run successfully.
