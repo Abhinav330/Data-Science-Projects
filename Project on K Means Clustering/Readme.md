@@ -24,5 +24,3 @@ The code performs some data preprocessing steps, including:
 The code uses the K-means clustering algorithm to cluster colleges into two groups based on their features. It computes cluster centers and assigns each college to a cluster label. The scatterplot at the end visualizes the clustering results.
 
 Overall, this code showcases the use of EDA and K-means clustering for analyzing college data, with a focus on distinguishing between private and non-private institutions based on various features.
-
-**Note**: The code has some issues or discrepancies, such as missing import statements for 'pandas' and using 'df' without defining it. These issues need to be addressed for the code to run successfully. Additionally, it's important to handle data with values greater than 100 in 'Grad.Rate' carefully, as this could be a data quality concern.
