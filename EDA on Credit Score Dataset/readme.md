@@ -1,6 +1,4 @@
-# Project Title
-
-Credit Card Customer Analysis
+# Credit Card Customer Analysis
 
 ## Description
 
